@@ -1,4 +1,4 @@
 ## So it begins
 
 ### Week1
-[Quick Introduction and Sport Analytics in R](C:/Users/Emre.Usta/Documents/bda-test.html).
+[Quick Introduction and Sport Analytics in R](file:///C:/Users/Emre.Usta/Documents/bda-test.html).
