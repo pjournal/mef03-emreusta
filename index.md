@@ -2,3 +2,7 @@
 
 ### Week1
 [Quick Introduction and Sport Analytics in R](bda-test.html).
+
+
+### ODD Assignment
+[ODD](ODD_Assignment.html).
