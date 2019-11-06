@@ -1,4 +1,4 @@
 ## So it begins
 
-### Week1
+### Week-1
 [Quick Introduction and Sport Analytics in R](bda-test.html).
