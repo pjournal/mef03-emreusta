@@ -1,4 +1,7 @@
 ## So it begins
 
-### Week-1
+### 1st Assignment
 [Quick Introduction and Sport Analytics in R](bda-test.html).
+
+### BKM Assignment
+[BKM Assignment](BKM-Assignment.html).
